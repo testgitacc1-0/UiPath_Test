@@ -60,7 +60,7 @@
     <Sequence.Variables>
       <Variable x:TypeArguments="x:String" Name="VarialbleTest">
         <Variable.Default>
-          <Literal x:TypeArguments="x:String">Test</Literal>
+          <Literal x:TypeArguments="x:String">Fail</Literal>
         </Variable.Default>
       </Variable>
     </Sequence.Variables>
